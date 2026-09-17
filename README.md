@@ -31,24 +31,27 @@ class Prerana:
 
 ---
 
-### 🧠 Tech Stack
+### 🗄️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Embedded%20C-121212?style=for-the-badge&logo=c&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Verilog-121212?style=for-the-badge&logo=v&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/MATLAB-121212?style=for-the-badge&logo=mathworks&logoColor=00FF9C&labelColor=A855F7"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-121212?style=for-the-badge&logo=cadence&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-121212?style=for-the-badge&logo=xilinx&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Quartus%20Prime-121212?style=for-the-badge&logo=intel&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/ModelSim-121212?style=for-the-badge&logo=mentor&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Keil%20uVision-121212?style=for-the-badge&logo=arm&logoColor=00FF9C&labelColor=A855F7"/>
-  <img src="https://img.shields.io/badge/LTSpice-121212?style=for-the-badge&logo=analogdevices&logoColor=00FF9C&labelColor=A855F7"/>
-</p>
+**Languages**
+
+<img src="https://img.shields.io/badge/JAVA-D9C8F5?style=for-the-badge&logo=openjdk&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/PYTHON-D9C8F5?style=for-the-badge&logo=python&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/EMBEDDED%20C-D9C8F5?style=for-the-badge&logo=c&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/MATLAB-D9C8F5?style=for-the-badge&logo=mathworks&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/VERILOG-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/>
+
+**Embedded & Hardware**
+
+<img src="https://img.shields.io/badge/ESP32-D9C8F5?style=for-the-badge&logo=espressif&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/LoRa-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/FPGA-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/ARM%20(Keil)-D9C8F5?style=for-the-badge&logo=arm&logoColor=1A1A2E"/>
+
+**EDA & Simulation**
+
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/Xilinx%20Vivado-D9C8F5?style=for-the-badge&logo=xilinx&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/Quartus%20Prime-D9C8F5?style=for-the-badge&logo=intel&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/ModelSim-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/LTSpice-D9C8F5?style=for-the-badge&logo=analogdevices&logoColor=1A1A2E"/>
+
+**ML & Data**
+
+<img src="https://img.shields.io/badge/Random%20Forest-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/LSTM-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/RAG-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/> <img src="https://img.shields.io/badge/Vector%20DB-D9C8F5?style=for-the-badge&logoColor=1A1A2E"/>
+
+</div>
 
 **Domains:** Digital & Analog Electronics · VLSI Design Flow · RF & Satellite Communication · Signal Processing · Channel Modeling · Embedded Systems
 
