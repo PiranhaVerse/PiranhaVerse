@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Prerana%20Ghosh&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20ML-driven%20Networks&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B8E,100:0B6E63&height=220&section=header&text=Prerana%20Ghosh&fontSize=55&fontColor=1E3A8A&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20ML-driven%20Networks&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%2B+ML+Enthusiast;Building+Self-Healing+Mesh+Networks;VLSI+%7C+FPGA+%7C+RF+%7C+Signal+Processing" alt="Typing SVG" />
 
@@ -129,7 +129,7 @@ Hands-on exposure to Communication, Navigation & Surveillance systems behind air
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B8E,100:0B6E63&height=100&section=footer" width="100%"/>
 
 **`while (alive) { code(); dance(); learn(); repeat(); }`**
 
